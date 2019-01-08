@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Без категория &#8211; GenArtWood</title>
-	<atom:link href="/https://yoanadamqnova.github.io/GenArtWood/category/%D0%B1%D0%B5%D0%B7-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://yoanadamqnova.github.io/GenArtWood</link>
+	<atom:link href="https://yoanadamqnova.github.io/GenArtWood/category/%D0%B1%D0%B5%D0%B7-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yoanadamqnova.github.io/GenArtWood</link>
 	<description>Поредният WordPress сайт</description>
 	<lastBuildDate>Tue, 08 Jan 2019 21:21:26 +0000</lastBuildDate>
 	<language>bg-BG</language>
@@ -19,18 +19,18 @@
 	<generator>https://wordpress.org/?v=5.0</generator>
 	<item>
 		<title>Здравей, свят!</title>
-		<link>/https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/</link>
-		<comments>/https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/#comments</comments>
+		<link>https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/</link>
+		<comments>https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/#comments</comments>
 		<pubDate>Tue, 08 Jan 2019 21:21:26 +0000</pubDate>
 		<dc:creator><![CDATA[genartwood]]></dc:creator>
 				<category><![CDATA[Без категория]]></category>
 
-		<guid isPermaLink="false">/https://yoanadamqnova.github.io/GenArtWood/?p=1</guid>
+		<guid isPermaLink="false">https://yoanadamqnova.github.io/GenArtWood/?p=1</guid>
 		<description><![CDATA[Добре дошли в WordPress. Това е първата ви публикация. Редактирайте я или я изтрийте, след което започнете да пишете!]]></description>
 				<content:encoded><![CDATA[
 <p>Добре дошли в WordPress. Това е първата ви публикация. Редактирайте я или я изтрийте, след което започнете да пишете!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
