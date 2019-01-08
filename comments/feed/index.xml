@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Коментари за GenArtWood</title>
+	<atom:link href="/https://yoanadamqnova.github.io/GenArtWood/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://yoanadamqnova.github.io/GenArtWood</link>
+	<description>Поредният WordPress сайт</description>
+	<lastBuildDate>Tue, 08 Jan 2019 21:21:26 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0</generator>
+	<item>
+		<title>Коментари по Здравей, свят! от Коментатор от WordPress</title>
+		<link>/https://yoanadamqnova.github.io/GenArtWood/2019/01/08/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[Коментатор от WordPress]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2019 21:21:26 +0000</pubDate>
+		<guid isPermaLink="false">/https://yoanadamqnova.github.io/GenArtWood/?p=1#comment-1</guid>
+		<description><![CDATA[Привет, това е коментар.
+Управлението, промените, редактирането и триенето на коментарите става в секция Коментари на таблото.
+Аватарите на потребителите, които коментират, идват от &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Привет, това е коментар.<br />
+Управлението, промените, редактирането и триенето на коментарите става в секция Коментари на таблото.<br />
+Аватарите на потребителите, които коментират, идват от <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
